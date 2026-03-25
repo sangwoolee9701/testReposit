@@ -1,0 +1,9 @@
+#파워셀 시작
+작업 폴더에 관리자로 파워쉘 실행 후 npm create vue@latest 입력 후 vue-project 생성됨 그러면 프로젝트 폴더 이름 만들면 됨
+
+
+#파워셀 에러시
+파워쉘 관리자로 실행 -> get-ExecutionPolicy 입력 -> (Restricted 가 표시되면) set-ExecutionPolicy RemoteSigned 입력-> Get-ExecutionPolicy 입력 후 RemoteSigned 표시되면 ok
+
+이후에
+npm create vue@latest 입력하면  vue-project 생성됨 그러면 프로젝트 폴더 이름 만들면 됨
