@@ -5,7 +5,7 @@
   <div v-else>안녕하세요2</div>
 
   <div class="menu">
-    <!-- v-for반복문 vv-->
+    <!-- v-for반복문 v-->
     <!-- 작명(내맘대로 작명함) in 횟수 또는 Array 데이터 -->
     <a href="#" v-for="(작명,i) in 메뉴들" :key="i">{{작명}}</a> <!-- 반복문 쓸때 꼭 key쓰고 작명한 네임 써줘야 에러 안남 -->
   </div>
