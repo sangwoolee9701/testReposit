@@ -17,7 +17,7 @@
 // ]
 
 
-export const aa =  [{ 
+const aa =  [{ 
     title : '첫 째 프로젝트 : 허위매물 전문 부동산 앱',
     content : 'Vue를 이용하면 비누같이 매끈한 앱을 만들 수 있습니다',
     date : 'September 24, 2021',
@@ -36,7 +36,7 @@ export const aa =  [{
 ]
 
 
-export const bb =  [{ 
+const bb =  [{ 
     title : 'a첫 째 프로젝트 : 허위매물 전문 부동산 앱',
     content : 'Vue를 이용하면 비누같이 매끈한 앱을 만들 수 있습니다',
     date : 'September 24, 2021',

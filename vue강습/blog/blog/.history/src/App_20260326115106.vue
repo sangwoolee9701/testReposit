@@ -30,7 +30,7 @@
   </div>
 
   <div style="margin-bottom: 80px;">
-    <List :블로그글v="블로그글a"/>
+    <List :블로그글v="블로그글"/>
   </div>
   <div>
     <Hi :블로그글vv="블로그글b" />
@@ -58,7 +58,7 @@ export default{
 
   data(){
     return{
-      블로그글a : aa,
+      블로그글 : aa,
       블로그글b : bb
 
     }
