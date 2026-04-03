@@ -1,0 +1,7 @@
+/* @import './base.css'; */
+
+#app{width: 100%; height: 4000px; background-color: #000;}
+.container_wrap{width: 100%; max-width: 1920px; }
+
+.movie_swiper {width: 100%; padding: 0 35px;}
+.movie_swiper .swiper-slide {width: ; height: 300px;}
